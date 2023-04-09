@@ -1,6 +1,4 @@
 
- <img src="https://avatars.githubusercontent.com/u/67386495?s=400&u=df9df83469e079fec7eeb57f3eab0b5bf6a1e4d5&v=4" align=right>
- 
 <br> 
 Hi there, 👋  I'm Ishika Paliwal. <br> 
 - 🎓 I am pursuing Integrated M.Tech in Information Technology from IIPS, DAVV, Indore.  <br> 
